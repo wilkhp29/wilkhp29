@@ -2,9 +2,9 @@
 
 ## Software Engineer | React Native · React · TypeScript · Node.js
 
-Desenvolvedor brasileiro com **11+ anos de experiência** criando aplicações web, mobile e integrações. Trabalho principalmente com React Native, React, TypeScript e Node.js, com experiência complementar em Java, Spring Boot, APIs REST, bancos de dados, IA e automação de processos.
+Desenvolvedor de software brasileiro com **11+ anos de experiência profissional** em aplicações web, mobile e integrações. Minha atuação principal é com React Native, React, TypeScript e Node.js, além de experiência com Java, Spring Boot, APIs REST, bancos de dados, IA e automação de processos.
 
-Tenho interesse em produtos digitais, SaaS, mobile multiplataforma, sistemas escaláveis e automações que resolvem problemas reais.
+Gosto de transformar necessidades de negócio em soluções simples, estáveis e fáceis de manter. Tenho interesse especial por produtos digitais, SaaS, aplicações mobile multiplataforma e automações que resolvem problemas reais.
 
 ### Principais tecnologias
 
